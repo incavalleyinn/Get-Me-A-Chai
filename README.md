@@ -44,13 +44,13 @@ Fans don’t need an account — they can simply search for creators and support
 3. Set up `.env.local` with your MongoDB and OAuth credentials
 4. Run MongoDB locally or use Atlas
 
-MONGODB_URI=your_mongodb_uri_here
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-GITHUB_CLIENT_ID=your_github_client_id
-GITHUB_CLIENT_SECRET=your_github_client_secret
-NEXTAUTH_SECRET=your_nextauth_secret
-NEXTAUTH_URL=http://localhost:3000
+### MONGODB_URI=your_mongodb_uri_here
+### GOOGLE_CLIENT_ID=your_google_client_id
+### GOOGLE_CLIENT_SECRET=your_google_client_secret
+### GITHUB_CLIENT_ID=your_github_client_id
+### GITHUB_CLIENT_SECRET=your_github_client_secret
+### NEXTAUTH_SECRET=your_nextauth_secret
+### NEXTAUTH_URL=http://localhost:3000
 
 5. Start the dev server: `npm run dev`
 
