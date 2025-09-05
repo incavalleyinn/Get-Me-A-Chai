@@ -42,7 +42,7 @@ export default function Home() {
                 />
               </div>
 
-              <div>Buy Me a Chai</div>
+              <Link href="/codzhorizon">Buy Me a Chai</Link>
 
               <div
                 className="bg-orange-400 absolute flex rounded-full animate-ping opacity-75 h-5 w-5 -top-2 -right-2"
@@ -65,7 +65,7 @@ export default function Home() {
                   className="flex h-8 w-9 justify-center items-center self-center"
                 />
               </div>
-              <div>How to do</div>
+              <Link href="/how">How to do</Link>
             </button>
 
           </div>
