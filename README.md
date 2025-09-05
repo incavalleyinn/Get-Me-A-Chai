@@ -5,6 +5,14 @@ _A modern GetMeAChai with custom styling, built for creators to receive direct s
 ---
 
 ## Screen Shots
+<img width="1895" height="962" alt="image" src="https://github.com/user-attachments/assets/6ef8b2b9-cb35-4011-8235-d04b529edca2" />
+
+<img width="1886" height="962" alt="image" src="https://github.com/user-attachments/assets/9833b242-933a-4d9b-ab77-767f30858d8a" />
+
+## Mobile View
+<img width="686" height="896" alt="image" src="https://github.com/user-attachments/assets/1ead44d9-cb6f-4f3a-a50c-1c228611288e" />
+
+<img width="713" height="887" alt="image" src="https://github.com/user-attachments/assets/456a3777-949c-4b96-bfb8-19c53b0288c0" />
 
 ---
 
